@@ -1,10 +1,7 @@
-Vritti's resume
+# Vritti Malu's resume
 
-Work experince
+## Education History
 
-Education
-Mcantosh High School
+## Hobbies
 
-Extracurriculars
-
-Skills
+## Employment History
