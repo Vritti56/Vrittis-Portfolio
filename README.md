@@ -1,1 +1,1 @@
-# Vrittis-Portfolio
+# Vritti-Portfolio
