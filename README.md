@@ -3,3 +3,5 @@
  
  ## Contents
  - [Resume](Resume.md)
+ - [Binary-Logic](Binary-logic.md)
+ - [Programming-Language-Table](PROGRAMMING-LANGUAGE-TABLE.md)
