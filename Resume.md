@@ -14,5 +14,7 @@
 - Mowes lawn
 - Voluntered at FMSC
 
-## Typing speed
-- 31 WPM
+## Typing 
+- Lessons completed
+  - J, F, and Space
+  - U, R, and K 
