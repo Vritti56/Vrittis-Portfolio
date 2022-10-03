@@ -15,4 +15,4 @@
 - Voluntered at FMSC
 
 ## Typing speed
-31 WPM
+- 31 WPM
