@@ -13,3 +13,6 @@
 ## Employment History
 - Mowes lawn
 - Voluntered at FMSC
+
+## Typing speed
+31 WPM
