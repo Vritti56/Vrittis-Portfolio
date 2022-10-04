@@ -15,7 +15,9 @@
 - Voluntered at FMSC
 
 ## Typing 
+- speed : 31 WPM
 - Lessons completed
   - J, F, and Space
   - U, R, and K 
   - D, E, and I 
+  - C, G, and N
